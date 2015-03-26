@@ -1,4 +1,4 @@
-ï»¿#
+#
 # This file contains configuration flags to customize your site
 #
 
@@ -6,7 +6,7 @@
 name: Christophe Nadeau Grandmont
 
 # Short bio or description (displayed in the header)
-description: Programmeur de Jeu Video Quebecois
+description: Programmeur de Jeu Vidéo Québécois
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
